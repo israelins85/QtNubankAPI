@@ -32,3 +32,5 @@ HEADERS += \
 
 FORMS += \
         mainwindow.ui
+
+include($$PWD/../QtNubankAPI/QtNubankAPI.pri)
